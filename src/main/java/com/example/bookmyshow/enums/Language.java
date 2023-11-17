@@ -1,2 +1,7 @@
-package com.example.bookmyshow.enums;public enum Language {
+package com.example.bookmyshow.enums;
+
+public enum Language {
+    HINDI,
+    PUNJABI,
+    ENGLISH
 }
